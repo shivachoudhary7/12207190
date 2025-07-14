@@ -1,4 +1,4 @@
-<img width="1366" height="594" alt="Capture PNG1" src="https://github.com/user-attachments/assets/3a7076a9-3bc4-4e18-9412-bfe775b85e9a" />
+
 
 
 ## Project info
@@ -70,5 +70,5 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://tips-tricks/custom-domain#step-by-step-guide)  <img width="1348" height="653" alt="Capture" src="https://github.com/user-attachments/assets/8832e8c8-403d-4e38-a4b1-ef3831baabb5" />
-<img width="1348" height="653" alt="Capture" src="https://github.com/user-attachments/assets/f526f14e-6aeb-4b91-89f2-c675f9a4e61a" />
+<img width="1366" height="594" alt="Capture PNG1" src="https://github.com/user-attachments/assets/3a7076a9-3bc4-4e18-9412-bfe775b85e9a" />
 
