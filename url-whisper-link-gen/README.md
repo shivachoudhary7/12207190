@@ -2,15 +2,14 @@
 
 ## Project info
 
-**URL**: https://projects/83d54ce1-787e-4f0a-b3cd-bd635bb1f470
-
+**URL**: https://url-whisper-link-gen.lovable.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 
 
-Simply visit the (https://lovable.dev/projects/83d54ce1-787e-4f0a-b3cd-bd635bb1f470) and start prompting.
+
 
 Changes made via Lovable will be committed automatically to this repo.
 
